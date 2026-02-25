@@ -1,0 +1,1 @@
+{"framework":"pytorch","task":"image-captioning","model":{"type":"BLIP2_Caption","weight_path":"checkpoint_04.pth","half":false},"pipeline":{"type":"BLIP2-Caption"}}

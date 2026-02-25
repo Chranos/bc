@@ -1,0 +1,33 @@
+# ===== 权重文件 =====
+*.pth
+*.pt
+*.bin
+*.onnx
+*.safetensors
+*.ckpt
+checkpoint_*/
+
+# ===== 模型输出 / 训练结果 =====
+outputs/
+runs/
+
+# ===== 数据文件 =====
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.csv
+
+# ===== 临时文件 / 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+nohup.out
+*.log
+
+# ===== 编辑器 / 系统 =====
+.mdl
+.msc
+.mv
